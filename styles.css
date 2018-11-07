@@ -1,0 +1,21 @@
+.btn {
+	padding: 6px 8px;
+}
+.bg {
+  
+  background-image: url("ufo.jpg")  ;
+  background-attachment: fixed;
+  height: 620px;
+  padding: 20px;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; 
+  font-family: 'Times New Roman', Times, serif;
+  color: black;   
+  font-weight: bold   
+}
+.form-group{
+  font-family: 'Times New Roman', Times, serif;
+
+}
